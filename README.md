@@ -18,9 +18,8 @@
   </ul>
 </div>
 
-<div align="right">
-<img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b3.webp" align="center"/>
-</div>
+<img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b3.webp"  align="right""/>
+
 
 
 
