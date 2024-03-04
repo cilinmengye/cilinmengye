@@ -5,16 +5,16 @@
 </div>
 
 <h2 align="center">我是...🤔</h2>
-我是~~sensei~~,~~旅行者~~,~~开拓者~~，~~~指挥官~~，~~~舰长~~...<゜)))彡
+我是 ~~sensei~~ , ~~旅行者~~, ~~开拓者~~ , ~~指挥官~~ , ~~舰长~~ ...<゜)))彡
                                                   
-<div align="left">
-  好吧,我是**次林梦叶**
+好吧,我是**次林梦叶**
 * 💻Bug Writer ^_~
 * 💖二次元er (☄⊙ω⊙)☄
 * 📚Student ( 。＿ 。） ✎ ＿
-</div>
 
-<img src="https://github.com/RivTian/RivTian/blob/master/sticker/chewingLyo.gif?raw=true" align="right" width="150px"></img>
+<div align="center">
+<img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b2.webp" align="center"/>
+</div>
 
 
 
