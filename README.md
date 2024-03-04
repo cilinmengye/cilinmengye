@@ -10,14 +10,14 @@
 
 <br>                                               
 
-好吧,我是**次林梦叶**
+好吧 我是**次林梦叶**
 
 * 💻Bug Writer ^_~
 * 💖二次元er (☄⊙ω⊙)☄
 * 📚Student ( 。＿ 。） ✎ ＿
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b2.webp" align="center"/>
+<div align="left">
+<img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b3.webp" align="center"/>
 </div>
 
 
