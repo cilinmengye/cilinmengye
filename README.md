@@ -6,17 +6,19 @@
 
 <h2 align="center">我是...🤔</h2>
 
-我是 ~~sensei~~ , ~~旅行者~~, ~~开拓者~~ , ~~指挥官~~ , ~~舰长~~ ... <゜)))彡
-
-<br>                                               
-
-好吧 我是**次林梦叶**
-
-* 💻Bug Writer ^_~
-* 💖二次元er (☄⊙ω⊙)☄
-* 📚Student ( 。＿ 。） ✎ ＿
-
 <div align="left">
+  <p>我是 <del>sensei</del> , <del>旅行者</del>, <del>开拓者</del> , <del>指挥官</del> , <del>舰长</del> ... &lt;゜)))彡</p>
+  <br>                                               
+  <p>好吧 我是<strong>次林梦叶</strong></p>
+
+  <ul>
+  <li>💻Bug Writer ^_~</li>
+  <li>💖二次元er (☄⊙ω⊙)☄</li>
+  <li>📚Student ( 。＿ 。） ✎ ＿</li>
+  </ul>
+</div>
+
+<div align="right">
 <img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b3.webp" align="center"/>
 </div>
 
