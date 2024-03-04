@@ -6,6 +6,8 @@
 
 <h2 align="center">我是...🤔</h2>
 
+<img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b3.webp"  align="right"/>
+
 <div align="left">
   <p>我是 <del>sensei</del> , <del>旅行者</del>, <del>开拓者</del> , <del>指挥官</del> , <del>舰长</del> ... &lt;゜)))彡</p>
   <br>                                               
@@ -18,7 +20,7 @@
   </ul>
 </div>
 
-<img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b3.webp"  align="right"/>
+
 
 
 
