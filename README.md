@@ -1,6 +1,7 @@
-<h1 align="center">Hello World＼（＾▽＾）／,欢迎来到我的github</h1>
+<h1 align="center">Hello World＼（＾▽＾）／</h1>
+<h2 align="center">欢迎来到我的GITHUB</h2>
 <div align="center">
-<img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b1.webp" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b2.webp" align="center"/>
 </div>
 
 <!--
