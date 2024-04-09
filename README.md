@@ -9,13 +9,14 @@
 <img src="https://raw.githubusercontent.com/cilinmengye/cilinmengye/main/resource-warehouse/b3.webp"  align="right"/>
 
 <div align="left">
-  <p>我是 <del>sensei</del> , <del>旅行者</del>, <del>开拓者</del> , <del>指挥官</del> , <del>舰长</del> ... &lt;゜)))彡</p>
+  <p>我是 <del>噬梦者</del>, <del>骑空士</del>, <del>sensei</del> , <del>旅行者</del>, <del>开拓者</del> , <del>指挥官</del> , <del>舰长</del> ... &lt;゜)))彡</p>
   <br>                                               
   <p>好吧 我是<strong>次林梦叶</strong></p>
 
   <ul>
   <li>💻Bug Writer ^_~</li>
   <li>💖二次元er (☄⊙ω⊙)☄</li>
+  <li>💖galgamer (☄⊙ω⊙)☄</li>
   <li>📚Student ( 。＿ 。） ✎ ＿</li>
   </ul>
 </div>
